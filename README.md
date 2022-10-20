@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "320px" src="https://github.com/SonalGuptaa/SonalGuptaa/blob/main/Banner.png" alt="cover" />
+<img src="https://github.com/SonalGuptaa/SonalGuptaa/blob/main/Banner.png" alt="cover" />
 </div>
 github profile markdown generator logo
 GitHub Profile README Generator
