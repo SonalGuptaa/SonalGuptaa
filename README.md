@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sonalgupta97834@gmail.com**
 
-- ⚡ Fun fact **I also post my Doodle Art on Instagram@damn.doddle**
+- ⚡ Fun fact **I also post my Doodle Art on @damn.doddle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
