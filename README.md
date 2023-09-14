@@ -68,5 +68,3 @@
 </div>
 
 ----
-
-[![Sonal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalgupta01&theme=react-dark)](https://github.com/sonalgupta01/github-readme-activity-graph)
