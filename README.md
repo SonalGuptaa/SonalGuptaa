@@ -38,7 +38,7 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.leetcode.com/sonal gupta" target="_blank">
+<a href="https://leetcode.com/SonalGuptaa/" target="_blank">
  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
 </a>
 
